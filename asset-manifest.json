@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/css/main.307987fe.chunk.css",
+    "main.js": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/main.dc27faf3.chunk.js",
+    "main.js.map": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/main.dc27faf3.chunk.js.map",
+    "runtime-main.js": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/runtime-main.65011792.js",
+    "runtime-main.js.map": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/runtime-main.65011792.js.map",
+    "static/js/2.499a0f37.chunk.js": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/2.499a0f37.chunk.js",
+    "static/js/2.499a0f37.chunk.js.map": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/2.499a0f37.chunk.js.map",
+    "index.html": "https://sh00k-thad3v.github.io/csb-3mh9bo/index.html",
+    "static/css/main.307987fe.chunk.css.map": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/css/main.307987fe.chunk.css.map",
+    "static/js/2.499a0f37.chunk.js.LICENSE.txt": "https://sh00k-thad3v.github.io/csb-3mh9bo/static/js/2.499a0f37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65011792.js",
+    "static/js/2.499a0f37.chunk.js",
+    "static/css/main.307987fe.chunk.css",
+    "static/js/main.dc27faf3.chunk.js"
+  ]
+}
